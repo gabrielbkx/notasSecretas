@@ -14,7 +14,7 @@ A lógica principal é baseada no conceito de **Leitura Destrutiva**: assim que 
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Backend:** Java 17, Spring Boot 3, Spring Data JPA.
+* **Backend:** Java 21, Spring Boot 3, Spring Data JPA.
 * **Banco de Dados:** H2 Database (Em memória, para rapidez e testes), PostgresSQL.
 * **Frontend:** HTML5, CSS3 (Dark/Cyberpunk Theme), JavaScript (Fetch API).
 * **Ferramentas:** Maven, Lombok.
