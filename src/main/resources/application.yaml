@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: notasSecretas
+    datasource:
+      url: jdbc:mysql://localhost:3306/notas_secretas_db
+      username: your_username
+      password: your_password
+      driver-class-name: com.mysql.cj.jdbc.Driver
+    jpa:
+      hibernate:
+        ddl-auto: update
+      show-sql: true
+
